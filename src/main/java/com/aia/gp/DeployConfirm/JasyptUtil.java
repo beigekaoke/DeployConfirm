@@ -51,7 +51,7 @@ public class JasyptUtil {
         //加密
         System.out.println(encyptPwd("flagship","root"));
         //解密
-        System.out.println(decyptPwd("flagship","lnzpDZItgjAntHqsYPFTew=="));
+        System.out.println(decyptPwd("flagship","QYVdJlk/FDQgU7h/w4qiYA=="));
     }
 }
 
