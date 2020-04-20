@@ -1,4 +1,4 @@
-package com.aia.gp.DeployConfirm;
+package com.aia.gp.deployConfirm;
 
 import org.jasypt.encryption.pbe.PooledPBEStringEncryptor;
 import org.jasypt.encryption.pbe.config.SimpleStringPBEConfig;

@@ -1,4 +1,4 @@
-package com.aia.gp.DeployConfirm;
+package com.aia.gp.deployConfirm;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.jdbc.core.JdbcTemplate;
